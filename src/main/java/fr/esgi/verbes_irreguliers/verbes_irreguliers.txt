@@ -1,0 +1,16 @@
+begin,begun,began,commencer
+break,broken,broke,casser
+choose,chosen,chose,choisir
+do,done,did,faire
+drive,driven,drove,conduire
+eat,eaten,ate,manger
+find,found,found,trouver
+go,gone,went,aller
+have,had,had,avoir
+know,known,knew,savoir
+meet,met,met,rencontrer
+run,run,ran,courir
+see,seen,saw,voir
+sing,sung,sang,chanter
+take,taken,took,prendre
+think,thought,thought,penser
